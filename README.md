@@ -40,7 +40,7 @@ Right now I'm learning bioinformatics and structural biology tools alongside my 
 │  Nextflow: FASTQ → QC → alignment → VCF                   │
 │  Containerised DSL2 pipeline with a generated test set    │
 │  of 25 planted variants, so recall can actually be        │
-│  measured. Written; not yet run.                          │
+│  measured. Run: 25/25 found, 0 false calls.               │
 └───────────────────────────────────────────────────────────┘
 ┌─ Lab work ────────────────────────────────────────────────┐
 │  pGLO / GFP expression · molecular biology                │
@@ -55,6 +55,8 @@ Right now I'm learning bioinformatics and structural biology tools alongside my 
 
 → [cancer-crispr-targets](https://github.com/mhommii/cancer-crispr-targets) · [crispr-guide-design](https://github.com/mhommii/crispr-guide-design) · [variant-calling-pipeline](https://github.com/mhommii/variant-calling-pipeline) · [roadmap](https://github.com/mhommii/bioinformatics-roadmap) · [VNIAS](https://github.com/mhommii/VNIAS)
 
+🗂️ **[Bioinformatics Portfolio →](https://github.com/users/mhommii/projects/2)** all projects on one board: status, next steps and stack
+
 <sub>The computational projects were built with AI assistance (Claude Code); each repository says so and lists its limitations.</sub>
 
 ### Toolkit
@@ -66,7 +68,7 @@ Right now I'm learning bioinformatics and structural biology tools alongside my 
 | Molecular docking *(learning)* | AutoDock Vina · PyRx |
 | Cancer genomics *(learning)* | R · maftools · TCGA MC3 data |
 | Sequence analysis *(learning)* | Python · Biopython · NCBI Entrez |
-| Workflows *(pipeline written, not yet run)* | Nextflow · containerised tools |
+| Workflows *(learning)* | Nextflow · containerised tools |
 | Wet lab | Bacterial transformation · protein purification · buffer exchange |
 
 ### Connect
