@@ -236,10 +236,12 @@
     <rect x="636.5" y="372.5" width="108" height="24" rx="6" class="pill"/><text x="690.5" y="388.5">UCSF Chimera</text>
     <rect x="752.5" y="372.5" width="116" height="24" rx="6" class="pill"/><text x="810.5" y="388.5">AutoDock Vina</text>
     <rect x="876.5" y="372.5" width="54" height="24" rx="6" class="pill"/><text x="903.5" y="388.5">PyRx</text>
+    <rect x="938.5" y="372.5" width="62" height="24" rx="6" class="pill"/><text x="969.5" y="388.5">Python</text>
+    <rect x="1008.5" y="372.5" width="30" height="24" rx="6" class="pill"/><text x="1023.5" y="388.5">R</text>
   </g>
 
   <text x="636" y="428" font-size="14" class="t">pGLO transformation <tspan class="g">·</tspan> GFP purification</text>
-  <text x="636" y="458" font-size="14"><tspan class="t" font-weight="600">VNIAS</tspan><tspan class="m"> — bioinformatics &amp; docking internship</tspan></text>
+  <text x="636" y="458" font-size="12.5"><tspan class="t" font-weight="600">crispr-guide-design</tspan><tspan class="g"> · </tspan><tspan class="t" font-weight="600">cancer-crispr-targets</tspan><tspan class="g"> · </tspan><tspan class="m">VNIAS</tspan></text>
 
   <line x1="524" y1="488.5" x2="1128" y2="488.5" class="ln"/>
   <text x="524" y="522" font-size="13"><tspan class="g">hommam@biotech</tspan><tspan class="m">:</tspan><tspan class="c">~</tspan><tspan class="m">$ </tspan><tspan class="c blink">█</tspan></text>
