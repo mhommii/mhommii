@@ -66,7 +66,7 @@ Right now I'm learning bioinformatics and structural biology tools alongside my 
 | Molecular docking *(learning)* | AutoDock Vina · PyRx |
 | Cancer genomics *(learning)* | R · maftools · TCGA MC3 data |
 | Sequence analysis *(learning)* | Python · Biopython · NCBI Entrez |
-| Workflows *(starting)* | Nextflow · Docker containers |
+| Workflows *(pipeline written, not yet run)* | Nextflow · containerised tools |
 | Wet lab | Bacterial transformation · protein purification · buffer exchange |
 
 ### Connect
