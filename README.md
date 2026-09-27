@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mohammad Hommam Ijaz
 
-<!--
-**mhommii/mhommii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Industrial Biotechnology student · Developing skills in bioinformatics and biological data analysis**
 
-Here are some ideas to get you started:
+I’m interested in how laboratory biotechnology connects with computational approaches to biology. My current learning includes sequence analysis, protein structure assessment, and molecular docking through the VNIAS online internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+
+Industrial biotechnology & biomanufacturing · Bioinformatics · Exploring AI applications in biology
+
+### Tools I’m learning
+
+BLAST · Discovery Studio · PROCHECK · ERRAT
+
+### Featured work
+
+[**Bioinformatics & Molecular Docking — VNIAS**](https://github.com/mhommii/VNIAS)  
+Internship learning repository, currently containing a reference protein structure. Exercise documentation is in progress.
+
+[LinkedIn](https://www.linkedin.com/in/mohammad-hommam-ijaz/)
+
