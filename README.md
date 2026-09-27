@@ -1,21 +1,36 @@
-# Mohammad Hommam Ijaz
+<div align="center">
 
-**Industrial Biotechnology student · Developing skills in bioinformatics and biological data analysis**
+<h1>🧬 Mohammad Hommam Ijaz</h1>
 
-I’m interested in how laboratory biotechnology connects with computational approaches to biology. My current learning includes sequence analysis, protein structure assessment, and molecular docking through the VNIAS online internship.
+<p><strong>Industrial Biotechnology Student</strong></p>
 
-### Focus
+<p>Biotechnology · Bioinformatics · Exploring AI for Biology</p>
 
-Industrial biotechnology & biomanufacturing · Bioinformatics · Exploring AI applications in biology
+<hr />
 
-### Tools I’m learning
+<h3>🧬 &nbsp; 🧪 &nbsp; 💻 &nbsp; 🤖 &nbsp; 📊</h3>
 
-BLAST · Discovery Studio · PROCHECK · ERRAT
+<p><strong>Interests</strong><br />
+Molecular Biology · Biomanufacturing<br />
+Computational Biology · AI for Biotechnology</p>
 
-### Featured work
+<hr />
 
-[**Bioinformatics & Molecular Docking — VNIAS**](https://github.com/mhommii/VNIAS)  
-Internship learning repository, currently containing a reference protein structure. Exercise documentation is in progress.
+<h3>Featured</h3>
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-hommam-ijaz/)
+<p><a href="https://github.com/mhommii/VNIAS"><strong>🧬 VNIAS</strong></a><br />
+Bioinformatics &amp; Molecular Docking</p>
 
+<p>Online internship learning repository.<br />
+Reference protein structure available; exercise documentation in progress.</p>
+
+<hr />
+
+<p><strong>Tools I’m learning</strong><br />
+BLAST · Discovery Studio · PROCHECK · ERRAT</p>
+
+<hr />
+
+<p><a href="https://www.linkedin.com/in/mohammad-hommam-ijaz/">LinkedIn</a></p>
+
+</div>
